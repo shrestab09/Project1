@@ -10,7 +10,7 @@ int main() {
     // Set precision to 4 decimal places
     std::cout << std::fixed << std::setprecision(4) << value << std::endl;
 
-    return 0;
+    return 1;
 }
 
 // This is app.cpp file.
